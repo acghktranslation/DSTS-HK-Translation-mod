@@ -9,8 +9,8 @@
 ## 前置準備
 
 1. 明白使用此Mod及其依賴的第三方工具可能風險，如有使用後導致任何損失本人不會負責
-2. 沒有用過[MEGA Drive](https://mega.nz/folder/0CM0jQ5A#rXsYVNWEl47XIyLHpOPsFw)任何版本的新用家可直接前往使用方法
-3. 如曾經用過MEGA Drive的Mod，請按MEGA DriVe內README.md還原，即使是用Reloaded版也需要先還原
+2. 沒有用過[MEGA Drive](https://mega.nz/folder/0CM0jQ5A#rXsYVNWEl47XIyLHpOPsFw)任何版本Mod的新用家可直接前往使用方法
+3. 如曾經用過MEGA Drive的Mod，請按MEGA Drive內README.md還原，即使是用Reloaded版也需要先還原
 
 ## 使用方法
 
