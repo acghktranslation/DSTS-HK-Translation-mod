@@ -4,7 +4,7 @@
 
 ## 更改內容
 
-請參閱[dict資料夾內檔案](dict)
+請參閱[dict folder commit history](https://github.com/acghktranslation/DSTS-HK-Translation-mod/commits/main/dict)
 
 ## 前置準備
 
